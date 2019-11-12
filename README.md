@@ -28,3 +28,7 @@ This solution uses state-of-the-art deep learning models in NLP like BERT to go 
 - Learn to train and fine-tune pre-trained SOTA models including BERT and DistilBERT for downstream NLP tasks like classification
 - Examples showcased using the latest and best in TensorFlow 2.0, TF-Hub and the excellent Transformers framework
 - Learn about a real-world industry use-case on predicting software dependency vulnerabilities using these techniques
+
+
+## Hack Session Examples Powered By
+![](https://i.imgur.com/WTbqmnR.png)
