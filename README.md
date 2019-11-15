@@ -32,3 +32,11 @@ This solution uses state-of-the-art deep learning models in NLP like BERT to go 
 
 ## Hack Session Examples Powered By
 ![](https://i.imgur.com/WTbqmnR.png)
+
+## Acknowledgements
+
+- [Hugging Face](https://huggingface.co/) for the awesome [__`transformers`__](https://github.com/huggingface/transformers) framework
+- [Google](https://about.google/) for giving us [Tensorflow 2.0](https://www.tensorflow.org/)
+- [Sebastian Ruder](http://ruder.io/) for a lot of excellent images, resources and his thesis on transfer learning
+- [Jay Alammar](http://jalammar.github.io/) for his excellent interpretations of transformers, BERT, GPT-2 and more!
+- All the researchers and practitioners who worked hard to build all the models leveraged in this tutorial
