@@ -40,3 +40,4 @@ This solution uses state-of-the-art deep learning models in NLP like BERT to go 
 - [Sebastian Ruder](http://ruder.io/) for a lot of excellent images, resources and his thesis on transfer learning
 - [Jay Alammar](http://jalammar.github.io/) for his excellent interpretations of transformers, BERT, GPT-2 and more!
 - All the researchers and practitioners who worked hard to build all the models leveraged in this tutorial
+- The entire team at [Red Hat](https://www.redhat.com/en) [CodeReady Analytics](https://github.com/fabric8-analytics) who I worked with for the showcased case-study on probable vulnerability prediction
